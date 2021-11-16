@@ -1,5 +1,5 @@
 # Go-Swagger
-Swagger implementatiton on Golang Project
+# Swagger implementatiton on Golang Project
 $ go get -u github.com/swaggo/swag/cmd/swag
 $ swag init
 
